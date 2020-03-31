@@ -1,0 +1,15 @@
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.deps.json
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.runtimeconfig.json
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.runtimeconfig.dev.json
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.dll
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Data.pdb
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Domain.dll
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\bin\Debug\netcoreapp3.1\CQRS.Domain.pdb
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csprojAssemblyReference.cache
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.AssemblyInfoInputs.cache
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.AssemblyInfo.cs
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csproj.CopyComplete
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.dll
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.pdb
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.genruntimeconfig.cache
+C:\Users\Farhad\Desktop\Projects\DotNet Core 3\CQRS\CQRS.Data\obj\Debug\netcoreapp3.1\CQRS.Data.csproj.CoreCompileInputs.cache
